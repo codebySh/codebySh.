@@ -11,7 +11,6 @@ B.Tech CSE Student • Java Developer • Frontend Developer
 <p align="center">
 Building projects that solve real-world problems and continuously improving my development skills.
 </p>
-<a href="800c76bd-c161-4f32-bc6e-f5399af44ca5.mp4">background image </a>
 ---
 
 ## 🚀 About Me
