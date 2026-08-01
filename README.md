@@ -16,13 +16,15 @@ Building projects that solve real-world problems and continuously improving my d
 
 ## 🚀 About Me
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/codebySh/codebySh/main/banner.gif" width="900" alt="S-TRACK Banner"/>
+</p>
+
 - 🎓 B.Tech Computer Science Engineering Student
 - 💻 Passionate about Java and Web Development
 - 🌱 Currently learning **Java, Data Structures & Algorithms, Git, and Spring Boot**
 - 🚀 Building **S-TRACK** – a productivity and habit tracking platform
 - 🎯 Goal: Become a skilled Software Engineer through consistent learning and practical projects
-
----
 
 ## 🛠️ Tech Stack
 
