@@ -220,15 +220,9 @@ public class Shivam {
 
 # 🐍 Contribution Snake
 
-<div align="center">
-
-<!-- Enable after configuring GitHub Actions -->
-
-<img src="https://raw.githubusercontent.com/codebySh/codebySh/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation"/>
-
-</div>
-
----
+<p align="center">
+  <img src="https://raw.githubusercontent.com/codebySh/codebySh/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</p>
 
 # 📊 Profile Summary
 
