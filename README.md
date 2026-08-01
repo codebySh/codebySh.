@@ -75,9 +75,9 @@ A modern productivity platform designed to help users build better habits and st
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=codebySh&show_icons=true&theme=tokyonight"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codebySh&layout=compact&theme=tokyonight"/>
 
 </p>
 
@@ -87,7 +87,7 @@ A modern productivity platform designed to help users build better habits and st
 
 <p align="center">
 
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight"/>
+<img src="https://streak-stats.demolab.com?user=codebySh&theme=tokyonight"/>
 
 </p>
 
@@ -97,7 +97,7 @@ A modern productivity platform designed to help users build better habits and st
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=codebySh&theme=tokyo-night"/>
 
 </p>
 
@@ -107,7 +107,7 @@ A modern productivity platform designed to help users build better habits and st
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&margin-w=15"/>
+<img src="https://github-profile-trophy.vercel.app/?username=codebySh&theme=tokyonight&margin-w=15"/>
 
 </p>
 
